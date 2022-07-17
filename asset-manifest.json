@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.af01d6bc.css",
-    "main.js": "/static/js/main.71fc76df.js",
-    "static/js/787.00c64a1f.chunk.js": "/static/js/787.00c64a1f.chunk.js",
-    "static/media/knbhv.png": "/static/media/knbhv.41e8a53243c5bd54d8dc.png",
-    "index.html": "/index.html",
-    "main.af01d6bc.css.map": "/static/css/main.af01d6bc.css.map",
-    "main.71fc76df.js.map": "/static/js/main.71fc76df.js.map",
-    "787.00c64a1f.chunk.js.map": "/static/js/787.00c64a1f.chunk.js.map"
+    "main.css": "/freeCodeCamp-FrontEnd-Projects/static/css/main.6c6b2718.css",
+    "main.js": "/freeCodeCamp-FrontEnd-Projects/static/js/main.6b05cb73.js",
+    "static/js/787.00c64a1f.chunk.js": "/freeCodeCamp-FrontEnd-Projects/static/js/787.00c64a1f.chunk.js",
+    "static/media/knbhv.png": "/freeCodeCamp-FrontEnd-Projects/static/media/knbhv.41e8a53243c5bd54d8dc.png",
+    "index.html": "/freeCodeCamp-FrontEnd-Projects/index.html",
+    "main.6c6b2718.css.map": "/freeCodeCamp-FrontEnd-Projects/static/css/main.6c6b2718.css.map",
+    "main.6b05cb73.js.map": "/freeCodeCamp-FrontEnd-Projects/static/js/main.6b05cb73.js.map",
+    "787.00c64a1f.chunk.js.map": "/freeCodeCamp-FrontEnd-Projects/static/js/787.00c64a1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af01d6bc.css",
-    "static/js/main.71fc76df.js"
+    "static/css/main.6c6b2718.css",
+    "static/js/main.6b05cb73.js"
   ]
 }
