@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af01d6bc.css",
+    "main.js": "/static/js/main.32a670d6.js",
+    "static/js/787.9ec739d8.chunk.js": "/static/js/787.9ec739d8.chunk.js",
+    "static/media/knbhv.png": "/static/media/knbhv.41e8a53243c5bd54d8dc.png",
+    "index.html": "/index.html",
+    "main.af01d6bc.css.map": "/static/css/main.af01d6bc.css.map",
+    "main.32a670d6.js.map": "/static/js/main.32a670d6.js.map",
+    "787.9ec739d8.chunk.js.map": "/static/js/787.9ec739d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af01d6bc.css",
+    "static/js/main.32a670d6.js"
+  ]
+}
