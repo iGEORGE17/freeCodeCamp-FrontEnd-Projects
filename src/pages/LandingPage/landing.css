@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+section {
+    height: 100vh;
+    width: 100%;
+}
+
+#header {
+    margin-bottom: 5rem;
+}
+
+#title , #subtitle{
+    text-align: center;
+    padding: 0 2rem;
+    font-size: 3rem;
+    font-family: 'Raleway', sans-serif;
+    line-height: 0.5rem;
+}
+
+#subtitle {
+    padding: 0;
+    font-size: 2rem;
+
+}
+
+#projects {
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    gap: 50px;
+}
+
+.project {
+    padding: none;
+    height: 350px;
+    position: relative;
+}
+
+#project_snippet_1 {
+    background-image: url('../../../public/knbhv.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.project a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.project h3 {
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    bottom: -24px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: #000;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.6;
+    color: #fff;
+    font-weight: 400;
+}
+
